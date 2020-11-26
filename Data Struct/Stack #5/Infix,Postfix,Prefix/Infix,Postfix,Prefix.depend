@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605095035 source:d:\data struct\stack #5\infix,postfix,prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<ctype.h>
+

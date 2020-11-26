@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602065357 source:c:\users\thinkpad-2\desktop\source code\data struct\linked list #4\activity8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+

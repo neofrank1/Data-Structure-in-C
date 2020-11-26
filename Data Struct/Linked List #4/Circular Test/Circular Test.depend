@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602657445 source:c:\users\pc001\desktop\source code\circular test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

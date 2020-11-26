@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603959467 source:d:\data struct\stack #5\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

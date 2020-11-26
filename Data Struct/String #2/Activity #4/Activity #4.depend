@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600519766 source:c:\users\thinkpad-2\desktop\source code\data struct\string #2\activity #4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
